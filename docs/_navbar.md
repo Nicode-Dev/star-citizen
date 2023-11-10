@@ -1,0 +1,5 @@
+[Accueil](/)
+[Actualités](/)
+[Guides](/)
+[Vidéos](/)
+[Corporation](/)
